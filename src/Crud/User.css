@@ -1,0 +1,44 @@
+.userListWrapper {
+    height: 100%;
+    padding: 10px;
+}
+
+.addUserBtn {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+
+
+
+/* Modal */
+.modalFooter {
+    margin: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.formControlSpace {
+    margin: 15px 0px;
+}
+
+.formControl {
+    width: 100% !important;
+    height: 40px !important;
+    border: 1px solid grey !important;
+}
+
+.errorMsg {
+    color: red !important;
+    font-size: 14px !important;
+}
+
+.saveBtn {
+    background-color: #1890ff !important;
+    color: black !important;
+    margin-left: 5px;
+}
+
+.saveBtn:hover {
+    background-color: white !important;
+}
